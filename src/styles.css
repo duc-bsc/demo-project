@@ -1,0 +1,65 @@
+html {
+  font-family: "Roboto Mono", monospace;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 2rem;
+}
+
+.list-style-none {
+  list-style: none;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.gap-1 {
+  gap: 1rem;
+}
+
+.gap-15 {
+  gap: 1.5rem;
+}
+
+.gap-2 {
+  gap: 2rem;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.min-height-100vh {
+  min-height: 100vh;
+}
+
+.px-1 {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.px-2 {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.px-3 {
+  padding-right: 3rem;
+  padding-left: 3rem;
+}
